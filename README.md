@@ -1,6 +1,10 @@
 # tpad
 A teleporter-pads mod for Minetest
 
+-- 09/01/2023 My changes Edson oliveira
+-- translation function included
+--      pt_BR - in progress
+
 Developed and tested on Minetest 0.4.16 - try in other versions at your own risk :)
 
 WIP mod forum discussion: https://forum.minetest.net/viewtopic.php?f=9&t=20081
