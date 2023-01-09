@@ -7,6 +7,7 @@ tpad.nodename = "tpad:tpad"
 tpad.mod_path = minetest.get_modpath(tpad.mod_name)
 tpad.settings_file = minetest.get_worldpath() .. "/mod_storage/" .. tpad.mod_name .. ".custom.conf"
 
+-- Prepara a função local S() para tradução
 local S = minetest.get_translator("tpad")
 
 local PRIVATE_PAD_STRING = S("Private (only owner)")
