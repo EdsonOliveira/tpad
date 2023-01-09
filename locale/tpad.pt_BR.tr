@@ -1,0 +1,15 @@
+# textdomain: tpad
+(you can doubleclick on a pad to teleport)=(teleportar : dar um duplo click em um pad da lista)
+Private (only owner)=Privado (Priprietário)
+Public (only owner's network)=Público (Rede do Proprietário)
+Global (any network)=Global (Todos)
+This pad name (owned by =O nome deste pad (é de propriedade de
+Teleport=Teleportar
+Close=Fechar
+Local Network=Rede Local
+Global Network=Rede Global
+Save=Salvar
+Delete=Apagar
+private=privado
+public=público
+global=global 
